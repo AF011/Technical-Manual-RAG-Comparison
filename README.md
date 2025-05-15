@@ -12,7 +12,6 @@ In this project, I explore how specific advanced RAG techniques can improve info
 ## Repository Contents
 
 - `rag_techniques_comparison.ipynb`: The main Jupyter notebook containing all code, experiments, and analysis
-- Link: https://colab.research.google.com/drive/1Mp9EvatPF9zHde5RZKhg4sUbUy4sfDpr?usp=sharing
 
 ## Key Findings
 
